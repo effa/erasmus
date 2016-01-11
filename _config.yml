@@ -1,0 +1,23 @@
+# Site settings
+title: Dánský Erasmus
+description: Příběhy Jirky a Toma o jejich pobytu v Dánsku.
+baseurl: "/erasmus"
+url: "http://effa.github.io"
+permalink: "/:title/"
+
+#disqus: erasmus-in-denmark
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavoured Markdown
+  hard_wrap: false  # don't convert newlines by <br>
+highlighter: pygments
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
