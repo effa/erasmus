@@ -18,7 +18,7 @@ Kousek *kurzívou* a nebo dokonce **tučně**. You’ll find this post in your `
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight python %}
+{% highlight python3 %}
 def print_hello(name):
     print("Hello, {name}!".format(name=name))
 print_hello('Tom')
