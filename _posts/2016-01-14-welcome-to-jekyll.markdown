@@ -1,5 +1,6 @@
 ---
 layout: post
+image: "denmark-flag.svg"
 title: "Zkouška markdownu"
 ---
 

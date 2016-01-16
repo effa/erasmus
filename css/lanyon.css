@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48em) {
   .masthead-title {
-    text-align: center;
+    /*text-align: center;*/
   }
   .masthead-title small {
     display: none;
@@ -251,7 +251,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 30.1em) {
   .sidebar-toggle {
-    position: fixed;
+    position: absolute;
   }
 }
 
@@ -449,10 +449,30 @@ a.pagination-item:hover {
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
   /*background-color: #ac4142; ... leave it gray */
 }
+
+.theme-base-08 .masthead {
+  background-color: #ac4142;
+}
+
+.theme-base-08 .container a:hover,
+.theme-base-08 .container a:focus {
+  text-decoration: none;
+  border-bottom: 1px solid #cc2122;
+  color:  #cc2122;
+}
+
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
+}
+
+.theme-base-08 .masthead a,
+.theme-base-08 .masthead a:hover,
+.theme-base-08 .masthead a:focus {
+  text-decoration: none;
+  border-bottom: 0px;
+  color: #fff;
 }
 
 /* Orange */
@@ -552,14 +572,46 @@ a.pagination-item:hover {
       -ms-transform: translateX(0);
           transform: translateX(0);
 }
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem #fff;
-}
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
+
+
+/*************************************************************/
+
+.header-icon {
+  position: relative;
+  height: 27px;
+  margin: 0px;
+  border-radius: 0px;
+  display: inline-block;
+  padding-left: 4px;
 }
 
-/* Only one tweak for a reverse layout */
-.layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+
+strong {
+  font-weight: normal;
+  /*color: #6a9fb5;*/
+  color: #336699;
+}
+
+.promo-image {
+  width: 150px;
+  margin: 7px 0 0 0;
+}
+
+.promo-image-wrapper {
+  margin: 0 15px 15px 0;
+  float: left;
+}
+
+@media (max-width: 38em) {
+  .promo-image-wrapper {
+    display: none;
+  }
+}
+
+.promo-text-wrapper {
+  overflow: auto;
+}
+
+.row {
+  overflow: hidden;
 }
