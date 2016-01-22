@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: O nás a tomto blogu
 permalink: /info/
 ---
 
@@ -9,7 +9,7 @@ Jsme v Dánsku. Skoro.
 Adresa
 ------
     Tåsingegade 29,
-    Copenhagen,
+    2100 Copenhagen,
     Denmark
 
 <!--
@@ -55,4 +55,4 @@ převzaté z [The Noun Project](https://thenounproject.com/),
 [Flag of Denmark](https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg) (public domain) z
 [Wikimedia Commons](https://commons.wikimedia.org/).
 
-Tento blog je vygenerován generátorem statických stránek [Jekyll](https://jekyllrb.com/) a využívá barevné schéma [solarized](http://ethanschoonover.com/solarized) na zvýrazňování syntaxe (za předpokladu, že to někdy bude potřeba).
+Tento blog je vygenerován generátorem statických stránek [Jekyll](https://jekyllrb.com/) a využívá barevné schéma [Solarized](http://ethanschoonover.com/solarized) na zvýrazňování syntaxe (za předpokladu, že to někdy bude potřeba).
