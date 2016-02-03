@@ -4,7 +4,7 @@ title: O nás a tomto blogu
 permalink: /info/
 ---
 
-Jsme v Dánsku. Skoro.
+Jsme v Dánsku.
 
 Adresa
 ------
