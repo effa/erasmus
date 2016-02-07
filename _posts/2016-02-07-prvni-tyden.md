@@ -8,7 +8,7 @@ bavili se s&nbsp;kupou lidí s&nbsp;podivnými jmény
 a řešili problémy s&nbsp;wifi.
 Oficiálně se tady tomu říká "Welcome week" a my vám popíšeme, jak probíhá.
 
-<a title="V Dánsku je taková zima, že tady mrzne mléko." class="fancybox" rel="group" href="../img/post2/zmrzle-mleko.jpg"><img src="../img/post2/zmrzle-mleko.sm.jpg" alt="Zmrzle mleko" />
+<a title="V Dánsku je taková zima, že tady mrzne mléko." class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/zmrzle-mleko.jpg"><img src="{{ site.baseurl }}/img/post2/zmrzle-mleko.sm.jpg" alt="Zmrzle mleko" />
 </a>
 <p class="caption">V Dánsku je taková zima, že tady mrzne mléko.</p>
 
@@ -19,7 +19,7 @@ Akorát teda na jednom pokoji nemáme přístupové údaje k&nbsp;wifi, protože
 Mezitím jsme ještě udělali průzkum všech obchodů v&nbsp;okruhu dvou kilometrů a pečlivě srovnali ceny, abychom pak mohli nakupovat v&nbsp;tom nejlevnějším. Bylo to úplně zbytečné, protože všechny byly stejně drahé.
 Jedinou výjimkou jsou velké obchody, které jsou (na rozdíl od ČR) ještě dražší.
 
-<a class="fancybox" rel="group" href="../img/post2/jirka-skace-do-vody.jpg"><img src="../img/post2/jirka-skace-do-vody.jpg" alt="Jirka skace do vody" />
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/jirka-skace-do-vody.jpg"><img src="{{ site.baseurl }}/img/post2/jirka-skace-do-vody.jpg" alt="Jirka skace do vody" />
 </a>
 
 V&nbsp;úterý jsme celý den strávili ve frontě.
@@ -32,7 +32,7 @@ Na konci třetí fronty zkontrolovali, že ještě pořád máme všechny potře
 Na konci čtvrté fronty zkontrolovali, že máme vyplněná všechna políčka desetistránkového formuláře.
 Na konci páté fronty nám vydali povolení k&nbsp;pobytu a na konci šesté fronty CPR.
 
-<a title="Uctění památky studentů, kteří se nedočkali" class="fancybox" rel="group" href="../img/post2/urna.jpg"><img src="../img/post2/urna.sm.jpg" alt="Urna a svicka" />
+<a title="Uctění památky studentů, kteří se nedočkali" class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/urna.jpg"><img src="{{ site.baseurl }}/img/post2/urna.sm.jpg" alt="Urna a svicka" />
 </a>
 <p class="caption">Uctění památky studentů, kteří se nedočkali.</p>
 
@@ -44,7 +44,7 @@ Největší zastoupení mezi zahraničními studenty mají Spojené Státy (hlav
 Po skončení akce se ještě jdeme podívat do několika obchodů s&nbsp;kolama, ale žádné nekupujeme, protože nám přijdou docela drahá.
 Ale koupíme je už brzo. V&nbsp;osmém odstavci.
 
-<a class="fancybox" rel="group" href="../img/post2/welcome-week.jpg"><img src="../img/post2/welcome-week.jpg" alt="Welcome week" />
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/welcome-week.jpg"><img src="{{ site.baseurl }}/img/post2/welcome-week.jpg" alt="Welcome week" />
 </a>
 
 Čtvrtek začal přednáškou o&nbsp;dánské kultuře.
@@ -63,7 +63,7 @@ Opět nám  poskytli spoustu jídla a pití zadarmo a navíc ještě vynaložili
 Ten se tančí jako obyčejný swing, ale ve znamení dánské rovnoprávnosti se pod rukou střídavě točí ženy i muži.
 Při tancování jsme se seznámili s&nbsp;Paulou, Ooi, Kirsten, Li, Anitou, Debbie a Ute.
 
-<a class="fancybox" rel="group" href="../img/post2/spousta-kol.jpg"><img src="../img/post2/spousta-kol.jpg" alt="Spousta kol" />
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/spousta-kol.jpg"><img src="{{ site.baseurl }}/img/post2/spousta-kol.jpg" alt="Spousta kol" />
 </a>
 
 V&nbsp;sobotu jsme prošli hromadu obchodů s&nbsp;kolama a nakonec jsme našli dvě za rozumnou cenu. Dobrou cenu jsme si museli usmlouvat našimi vyjednavačskými superschopnostmi.
@@ -72,10 +72,10 @@ Na kole tady jezdí skoro každý (na jednoho Kodaňana připadají skoro dvě k
 Každá silnice tady má speciální pruhy pro cyklisty (dokonce i odbočovací), semafory jsou přizpůsobeny pro cyklisty a na každém rohu je spousta parkovacích míst na kola.
 Zajímavé pravidlo je, že cyklista nemůže odbočit doleva najednou, ale musí provést dvoufázový manévr, který nejde popsat slovy (viz následující schéma).
 
-<a class="fancybox" rel="group" href="../img/post2/left-turn.jpg"><img src="../img/post2/left-turn.sm.jpg" alt="Zataceni doleva" />
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/left-turn.jpg"><img src="{{ site.baseurl }}/img/post2/left-turn.sm.jpg" alt="Zataceni doleva" />
 </a>
 
-<a title="V neděli jsme využili toho, že už máme kola a zajeli jsme si zabruslit." class="fancybox" rel="group" href="../img/post2/bruslime.jpg"><img src="../img/post2/bruslime.jpg" alt="Bruslime" />
+<a title="V neděli jsme využili toho, že už máme kola a zajeli jsme si zabruslit." class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/bruslime.jpg"><img src="{{ site.baseurl }}/img/post2/bruslime.jpg" alt="Bruslime" />
 </a>
 <p class="caption">V neděli jsme využili toho, že už máme kola a zajeli jsme si zabruslit.</p>
 
@@ -86,9 +86,9 @@ Cíle si rozdělujeme do sprintů, které trvají 14 dní a pojmenováváme je p
 První z&nbsp;nich jsme nazvali Mælk.
 Některé úkoly se snažíme plnit každý den, například sníst pět kusů ovoce a zeleniny, nevypít víc jak tři piva denně a chodit každé ráno běhat.
 
-<a class="fancybox" rel="group" href="../img/post2/bezime.jpg"><img src="../img/post2/bezime.jpg" alt="Zmrzle mleko"/></a>
+<a class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/bezime.jpg"><img src="{{ site.baseurl }}/img/post2/bezime.jpg" alt="Zmrzle mleko"/></a>
 
 
-<a title="Jeden z úkolů sprintu Mælk byl koupit si mléko. Splněno." class="fancybox" rel="group" href="../img/post2/maelk.jpg"><img src="../img/post2/maelk.jpg" alt="Mleko" />
+<a title="Jeden z úkolů sprintu Mælk byl koupit si mléko. Splněno." class="fancybox" rel="group" href="{{ site.baseurl }}/img/post2/maelk.jpg"><img src="{{ site.baseurl }}/img/post2/maelk.jpg" alt="Mleko" />
 </a>
 <p class="caption">Jeden z&nbsp;úkolů sprintu Mælk byl koupit si mléko. Splněno.</p>
