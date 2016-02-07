@@ -16,8 +16,8 @@ a nakonec jsme se rozhodli použít generátor statických stránek,
 což je taková bezva věc, díky které můžete psát články ve `vimu` a publikovat je pomocí příkazu `git push`.
 
 Proč vyjíždíme studovat do zahraničí, místo toho abychom radši zůstali doma ve sklepě bez jakýchkoli sociálních interakcí jako správní ajťáci?
-Chceme totiž vyrůst. Jakože osobnostně. Doma je to moc jednoduchý, zato v&nbsp;zahraničí nás nepochybně čeká spousta <s>problémů</s> výzev, jejichž vyřešením získáme kýbl životních zkušeností.
-Kromě toho nám přišlo fajn, *že* poznáme cizí kulturu, zlepšíme se v&nbsp;angličtině a podobný věci, který se píšou do přihlášky na Erasmus.
+Chceme totiž vyrůst. Jakože osobnostně. Doma je to moc jednoduchý, zato v&nbsp;zahraničí nás nepochybně čeká spousta <s>problémů</s> výzev, jejichž vyřešením získáme kýbl životních zkušeností
+a kromě toho nám přišlo fajn, *že* poznáme cizí kulturu, zlepšíme se v&nbsp;angličtině a podobný věci, který se píšou do přihlášky na Erasmus.
 Dánsko jsme si vybrali hlavně kvůli zajímavým předmětům a Legolandu.
 
 Erasmus *je* fajn v&nbsp;tom, že s&nbsp;ním není potřeba řešit tolik byrokracie, jako u&nbsp;jiných programů pro studium v&nbsp;zahraničí.
@@ -45,14 +45,14 @@ Je teprve 6:30, ale nastěhovat se můžeme až od 12:00, a proto moc nespěchá
 Jirka jako první cíl pobytu v&nbsp;Dánsku vytyčuje najít obchod s&nbsp;koblihami, což se nám podařilo nečekaně brzo.
 
 
-<a class="fancybox" rel="group" href="../img/pekarna.jpg"><img src="../img/pekarna.sm.jpg" alt="Pekárna" /></a>
+<a class="fancybox" rel="group" href="../img/post1/pekarna.jpg"><img src="../img/post1/pekarna.sm.jpg" alt="Pekárna" /></a>
 
 Ze zastávky autobusu jdeme nejprve chvíli rovně a na první křižovatce zahýbáme doprava.
 Pak jdeme docela dlouho podél trati.
 Za hřbitovem, *který* je obehnán zdí, procházíme dvakrát hned za sebou pod železničním mostem a ocitáme se na hlavní ulici s&nbsp;plno obchody, kapličkou a školou.
 Mezi železářstvím a květinářstvím si všimneme pekárny a náš cíl je tedy na dosah. Vstupujeme dovnitř a hned vpravo za dveřmi vidíme, co hledáme!
 
-<a class="fancybox" rel="group" href="../img/koblih.jpg"><img src="../img/koblih.sm.jpg" alt="Koblih" /></a>
+<a class="fancybox" rel="group" href="../img/post1/koblih.jpg"><img src="../img/post1/koblih.sm.jpg" alt="Koblih" /></a>
 
 Dánské koblihy se od těch českých liší ve dvou důležitých aspektech.
 Za prvé, náplň není uvnitř, ale venku.
@@ -63,7 +63,7 @@ Začínáme litovat všech těch frisbee, papírových kapesníků, poznámkový
 Po čtyřech hodinách zápasení s&nbsp;fyzikálními zákony o&nbsp;pohybu kufrů, promočení, vyčerpaní, zdevastovaní a na absolutním dně svých sil se konečně ocitáme na ulici, na jejímž konci je naše kolej.
 O&nbsp;hodinu později dorážíme do našeho nového domova.
 
-<a class="fancybox" rel="group" href="../img/tom-a-jablko.jpg"><img src="../img/tom-a-jablko.sm.jpg" alt="Tom a jablko" /></a>
+<a class="fancybox" rel="group" href="../img/post1/tom-a-jablko.jpg"><img src="../img/post1/tom-a-jablko.sm.jpg" alt="Tom a jablko" /></a>
 
 Jo a ještě jedna věc.
 Abychom zajistili, že pobyt v&nbsp;Dánsku neproflákáme studiem, vytyčili jsme si sami *sobě* cíle, které chceme splnit.
