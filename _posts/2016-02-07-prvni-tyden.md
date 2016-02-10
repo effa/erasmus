@@ -48,7 +48,7 @@ Ale koupíme je už brzo. V&nbsp;osmém odstavci.
 </a>
 
 Čtvrtek začal přednáškou o&nbsp;dánské kultuře.
-Dozvěděli jsem se, že co nevidět propadneme depresi. Je to nevyhnutelné. Říká se tomu honeymoon-marriage theorem. Na začátku po příjezdu do nové země je všechno super (honeymoon), ale po čase vás Dánsko začne štvát, protože je všechno pekelně drahý, Dánové se s&nbsp;váma nechcou bavit a chybí vám české pivo (marriage). Cílem je tuto depresi překonat, a to co nejdřív. K&nbsp;tomu je potřeba Dánskou kulturu pořádné pochopit. Nejde totiž jenom o&nbsp;to, co je na povrchu (chování, co se má a nemá dělat), ale o&nbsp;postoje a hodnoty (teorie ledovce).
+Dozvěděli jsme se, že co nevidět propadneme depresi. Je to nevyhnutelné. Říká se tomu honeymoon-marriage theorem. Na začátku po příjezdu do nové země je všechno super (honeymoon), ale po čase vás Dánsko začne štvát, protože je všechno pekelně drahý, Dánové se s&nbsp;váma nechcou bavit a chybí vám české pivo (marriage). Cílem je tuto depresi překonat, a to co nejdřív. K&nbsp;tomu je potřeba Dánskou kulturu pořádné pochopit. Nejde totiž jenom o&nbsp;to, co je na povrchu (chování, co se má a nemá dělat), ale o&nbsp;postoje a hodnoty (teorie ledovce).
 V&nbsp;dánské společnosti není žádná hierarchie, nikdo nemusí nikoho respektovat (dokonce ani své rodiče), upřednostňují spolupráci před soupeřením a cíli jednotlivců.
 Dánové mají společné záchody, což z&nbsp;nich dělá perfektní místo na seznamování.
 Seznámili jsme se se Selene, Terencem, Alvarem, Rebekkou, Elizabeth, Haley a Orsonem.
