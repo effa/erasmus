@@ -45,14 +45,14 @@ Je teprve 6:30, ale nastěhovat se můžeme až od 12:00, a proto moc nespěchá
 Jirka jako první cíl pobytu v&nbsp;Dánsku vytyčuje najít obchod s&nbsp;koblihami, což se nám podařilo nečekaně brzo.
 
 
-<a class="fancybox" rel="group" href="../img/post1/pekarna.jpg"><img src="../img/post1/pekarna.sm.jpg" alt="Pekárna" /></a>
+{% include img path="/img/post1/pekarna.jpg" small="/img/post1/pekarna.sm.jpg" %}
 
 Ze zastávky autobusu jdeme nejprve chvíli rovně a na první křižovatce zahýbáme doprava.
 Pak jdeme docela dlouho podél trati.
 Za hřbitovem, *který* je obehnán zdí, procházíme dvakrát hned za sebou pod železničním mostem a ocitáme se na hlavní ulici s&nbsp;plno obchody, kapličkou a školou.
 Mezi železářstvím a květinářstvím si všimneme pekárny a náš cíl je tedy na dosah. Vstupujeme dovnitř a hned vpravo za dveřmi vidíme, co hledáme!
 
-<a class="fancybox" rel="group" href="../img/post1/koblih.jpg"><img src="../img/post1/koblih.sm.jpg" alt="Koblih" /></a>
+{% include img path="/img/post1/koblih.jpg" small="/img/post1/koblih.sm.jpg" %}
 
 Dánské koblihy se od těch českých liší ve dvou důležitých aspektech.
 Za prvé, náplň není uvnitř, ale venku.
@@ -63,7 +63,7 @@ Začínáme litovat všech těch frisbee, papírových kapesníků, poznámkový
 Po čtyřech hodinách zápasení s&nbsp;fyzikálními zákony o&nbsp;pohybu kufrů, promočení, vyčerpaní, zdevastovaní a na absolutním dně svých sil se konečně ocitáme na ulici, na jejímž konci je naše kolej.
 O&nbsp;hodinu později dorážíme do našeho nového domova.
 
-<a class="fancybox" rel="group" href="../img/post1/tom-a-jablko.jpg"><img src="../img/post1/tom-a-jablko.sm.jpg" alt="Tom a jablko" /></a>
+{% include img path="/img/post1/tom-a-jablko.jpg" small="/img/post1/tom-a-jablko.sm.jpg" %}
 
 Jo a ještě jedna věc.
 Abychom zajistili, že pobyt v&nbsp;Dánsku neproflákáme studiem, vytyčili jsme si sami *sobě* cíle, které chceme splnit.

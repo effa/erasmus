@@ -1,0 +1,4 @@
+<a title="{{ include.caption }}" class="fancybox" rel="group" href="{{ site.baseurl }}{{ include.path }}">
+{% if include.small %}<img src="{{ site.baseurl }}{{ include.small }}"/>{% else %}<img src="{{ site.baseurl }}{{ include.path }}"/>{% endif %}
+</a>
+{% if include.caption %}<p class="caption">{{ include.caption }}</p>{% endif %}
