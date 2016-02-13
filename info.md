@@ -6,9 +6,9 @@ permalink: /info/
 
 Jsme v Dánsku.
 
-Adresa
-------
-    Tåsingegade 29,
+Kde bydlíme
+-----------
+    Tåsingegade 29, 4th floor, room 340
     2100 Copenhagen,
     Denmark
 
