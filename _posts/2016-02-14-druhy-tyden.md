@@ -9,7 +9,7 @@ Kromě toho jsme se naučili šermovat jako rytíři Jedi a vařit tradiční d�
 
 {% include img caption="Verča, Katka a Eliška" path="/img/post3/holky.jpg" %}
 
-Aby se dostaly do Kodaně co nejlevněji, zvolili holky pro cestu unikátní kombinaci tříhodinové cesty autem do Katovic (kam je zavezl přítel Elišky), letu do švédského Nyköpingu (kde se o&nbsp;ně přes den postaral přítel Katky), noci na letišti, po kterém se pohybovala igelitka pochybných osob, a letu do Kodaně (kde je ubytoval přítel Verči).
+Aby se dostaly do Kodaně co nejlevněji, zvolily holky pro cestu unikátní kombinaci tříhodinové cesty autem do Katovic (kam je zavezl přítel Elišky), letu do švédského Nyköpingu (kde se o&nbsp;ně přes den postaral přítel Katky), noci na letišti, po kterém se pohybovala igelitka pochybných osob, a letu do Kodaně (kde je ubytoval přítel Verči).
 Pokud nemáte zavazadla, pak bude nějaká takováto kombinace nejlevnějším způsobem, jak se dostat z&nbsp;Brna do Kodaně.
 Pokud ale zavadla máte, pak vás levněji vyjde autobus, kterým jsme jeli do Kodaně i my. Bližší popis najdete v&nbsp;prvním článku.
 
@@ -40,7 +40,7 @@ a samozřejmě taky skříň obchodů s&nbsp;oblečením, ve kterých si můžet
 
 Po cestě městem jsme viděli ještě další ešus architektonicky zajímavých budov.
 Například budovu druhé nejstarší burzy v&nbsp;Evropě, po jejíž věži se plazí čtyři krokodýli.
-Jejich autor bohužel nikdy v&nbsp;životě krokodýli neviděl, takže spíš než krokodýly připomínají psa Pluto.
+Jejich autor bohužel nikdy v&nbsp;životě krokodýly neviděl, takže spíš než krokodýly připomínají psa Pluto.
 
 {% include img caption="Věž burzy s krokodýly" path="/img/post3/krokodyli-vez.jpg" small="/img/post3/krokodyli-vez.sm.jpg"%}
 
@@ -83,5 +83,5 @@ Museli jsme sice trochu improvizovat, ale byli jsme v&nbsp;klidu, protože jsem 
 {% include img caption="Mezinárodní večeře" path="/img/post3/bramborovy-salat.jpg" %}
 
 Tím se nám podařilo pokořit všechny cíle prvního čtrnáctidenního sprintu Mælk
-a vrháme se do další sprintu, tentokrát s&nbsp;názvem Linser, ve kterém na nás čeká X dalších životních výzev.
+a vrháme se do dalšího sprintu, tentokrát s&nbsp;názvem Linser, ve kterém na nás čeká X dalších životních výzev.
 Třeba koupit si čočku, uvařit domácí tvaroh a popsat tabuli důkazem třetí Riceovy věty.
