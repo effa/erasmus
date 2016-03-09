@@ -29,4 +29,13 @@
     <script type="text/javascript" src="{{ site.baseurl }}/fancybox/source/helpers/jquery.fancybox-media.js"></script>
     <link rel="stylesheet" href="{{ site.baseurl }}/fancybox/source/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
     <script type="text/javascript" src="{{ site.baseurl }}/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
+
+    <!-- force https -->
+    <script>
+        var host = 'effa.github.io';
+        if (window.location.host == host && window.location.protocol != 'https:') {
+            window.location.protocol = 'https:';
+        }
+    </script>
+
 </head>
