@@ -124,7 +124,7 @@ Pozorování: ani v&nbsp;hospodě Dánové neprosí a sodovka je dánská voda.
 | Má tento pokoj povlečení? | Har værelset sengetøj? |
 | Jednu jízdenku do **Åre**, prosim. | En billet til Åre, tak. |
 | Můžete mě probudit v&nbsp;šest hodin? | Kan I&nbsp;vække mig klokken seks? |
-| Jede tento vlak do **Åre**? | Kører dette tog til Åre? |
+| Jede tento vlak do **Åre**? | Rider dette tog til Åre? |
 | Prosím ukliďte můj pokoj. | Gør venligst mit værelse rent. |
 | Kolik stojí pokoj pro dvě osoby? | Hvad koster et dobbeltværelse? |
 | Kdy je snídaně? | Hvornår er der morgenmad? |
